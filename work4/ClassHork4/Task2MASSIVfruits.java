@@ -11,7 +11,7 @@ import java.util.Arrays;
 public class Task2MASSIVfruits {
     public static void main (String [] args){
         String [] fruits = {"Pineapple","Orange","Coconut","Raspberry"};
-        int d = fruits.length;
+        int d = fruits.length; //длина массива
 
         System.out.println((fruits[1] +"," + fruits[3]));
         System.out.println(d);
